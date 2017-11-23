@@ -1,15 +1,15 @@
 ---
-summary: 'Create the available dogs page for your website by copying-and-pasting your previously created patterns.'
+summary: 'Create the product list page for your website by copying-and-pasting your previously created patterns.'
 time: '2 hours'
 deliverables: 'Pattern library'
 ---
 
-# Available dogs page template
+# Product list page template
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
-- Using your previously designed patterns create the page that lists dogs available for rescue.
+- *Continue work on your `ecommerce-pattern-library`*
+- Using your previously designed patterns create the page that lists available products.
 - Inside your `pages` folder make a new single HTML file—name it so that it matches your navigation.
 - *You should only write HTML, copy-and-paste pattern code & insert appropriate classes like `.grid` and type sizes.*
 - **This page does not get its own CSS file.** If you cannot create the page without writing CSS, your patterns aren’t good enough. Go back to the patterns and add variations. Or make a brand new pattern.
